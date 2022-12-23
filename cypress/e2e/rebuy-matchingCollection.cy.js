@@ -24,6 +24,7 @@ function grabHrefCollection(){
 
 
 
+
 const bottom = ['bikini','panties','brief','high-cut','high-waisted','highwaisted','shorts', 'thong']
 const top = ['bralette', 'top', 'tank', 'blouse','dress', 'pants']
 
